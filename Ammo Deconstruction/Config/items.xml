@@ -1,0 +1,38 @@
+<configs>
+	<append xpath="/items">	
+		<item name="9mmAmmoBase">
+			<property name="Extends" value="questMaster"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="AmmoBase"/>
+			</property>
+		</item>
+		
+		<item name="9mmAmmoBaseSteel">
+			<property name="Extends" value="questMaster"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="AmmoBaseSteel"/>
+			</property>
+		</item>
+		
+		<item name="AmmoBase">
+			<property name="Extends" value="questMaster"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="AmmoBase"/>
+			</property>
+		</item>
+		
+		<item name="AmmoBaseSteel">
+			<property name="Extends" value="questMaster"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="AmmoBaseSteel"/>
+			</property>
+		</item>
+		
+		<item name="ShotgunAmmoBase">
+			<property name="Extends" value="questMaster"/>
+			<property class="Action0">
+				<property name="QuestGiven" value="ShotgunAmmoBase"/>
+			</property>
+		</item>
+	</append>
+</configs>

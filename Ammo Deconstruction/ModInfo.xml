@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Deconstruction of Ammo" />
+		<Description value="Adding recipes for deconstruction of ammunition" />
+		<Author value="PakrNinja" />
+		<Version value="1.0" />
+		<Website value="https://www.twitch.tv/pakrninja" />
+	</ModInfo>
+</xml>

@@ -1,0 +1,28 @@
+<configs>
+	<append xpath="/recipes" >
+		<recipe name="9mmAmmoBase" count="1">
+			<ingredient name="ammo9mmBullet" count="100"/>
+		</recipe>
+		<recipe name="9mmAmmoBaseSteel" count="1">
+			<ingredient name="ammo9mmBulletSteel" count="100"/>
+		</recipe>
+		<recipe name="AmmoBase" count="1">
+			<ingredient name="ammo44MagnumBullet" count="100"/>
+		</recipe>
+		<recipe name="AmmoBaseSteel" count="1">
+			<ingredient name="ammo44MagnumBulletSteel" count="100"/>
+		</recipe>
+		<recipe name="AmmoBase" count="1">
+			<ingredient name="ammo762mmBulletFMJ" count="100"/>
+		</recipe>
+		<recipe name="AmmoBaseSteel" count="1">
+			<ingredient name="ammo762mmBulletFMJSteel" count="100"/>
+		</recipe>
+		<recipe name="ShotgunAmmoBase" count="1">
+			<ingredient name="ammoShotgunShell" count="100"/>
+		</recipe>
+		<recipe name="AmmoBase" count="1">
+			<ingredient name="ammoShotgunSlug" count="100"/>
+		</recipe>
+	</append>
+</configs>

@@ -1,0 +1,79 @@
+<configs>
+	<append xpath="/quests">	
+	<quest id="9mmAmmoBase">
+		<property name="name_key" value="Ammo Deconstruction" />
+		<property name="subtitle_key" value="Ammo Base Materials" />
+		<property name="description_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="icon" value="ui_game_symbol_zombie" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="difficulty" value="easy" />
+
+		<reward type="Item" id="resourceGunPowder" value="50-75" />
+		<reward type="Item" id="resourceBulletCasing" value="50-75" />
+		<reward type="Item" id="resourceBulletTip" value="50-75" />
+	</quest>
+
+	<quest id="9mmAmmoBaseSteel">
+		<property name="name_key" value="Ammo Deconstruction" />
+		<property name="subtitle_key" value="Ammo Base Materials" />
+		<property name="description_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="icon" value="ui_game_symbol_zombie" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="difficulty" value="easy" />
+
+		<reward type="Item" id="resourceGunPowder" value="50-75" />
+		<reward type="Item" id="resourceBulletCasing" value="50-75" />
+		<reward type="Item" id="resourceBulletTip" value="50-75" />
+	</quest>
+	
+	<quest id="AmmoBase">
+		<property name="name_key" value="Ammo Deconstruction" />
+		<property name="subtitle_key" value="Ammo Base Materials" />
+		<property name="description_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="icon" value="ui_game_symbol_zombie" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="difficulty" value="easy" />
+
+		<reward type="Item" id="resourceGunPowder" value="150-250" />
+		<reward type="Item" id="resourceBulletCasing" value="50-75" />
+		<reward type="Item" id="resourceBulletTip" value="50-75" />
+	</quest>
+
+	<quest id="AmmoBaseSteel">
+		<property name="name_key" value="Ammo Deconstruction" />
+		<property name="subtitle_key" value="Ammo Base Materials" />
+		<property name="description_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="icon" value="ui_game_symbol_zombie" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="difficulty" value="easy" />
+
+		<reward type="Item" id="resourceGunPowder" value="150-250" />
+		<reward type="Item" id="resourceBulletCasing" value="50-75" />
+		<reward type="Item" id="resourceBulletTip" value="50-75" />
+	</quest>
+	
+	<quest id="ShotgunAmmoBase">
+		<property name="name_key" value="Ammo Deconstruction" />
+		<property name="subtitle_key" value="Ammo Base Materials" />
+		<property name="description_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="icon" value="ui_game_symbol_zombie" />
+		<property name="repeatable" value="true" />
+		<property name="category_key" value="challenge" />
+		<property name="offer_key" value="Use this to obtain the base materials from ammunition" />
+		<property name="difficulty" value="easy" />
+
+		<reward type="Item" id="resourceGunPowder" value="100-150" />
+		<reward type="Item" id="resourceBuckshot" value="50-75" />
+		<reward type="Item" id="resourcePaper" value="50-75" />
+	</quest>
+	
+	</append>
+</configs>
